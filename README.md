@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **frontend projects using React.js while strengthening DSA and problem-solving skills**
 
-- 🌱 I’m currently learning **C#, Redux Toolkit, DSA**
+- 🌱 I’m currently learning **C++, Redux Toolkit, DSA**
 
 - 👯 I’m looking to collaborate on **React.js frontend projects and real-world web applications**
 
