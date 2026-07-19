@@ -32,39 +32,37 @@ I enjoy solving business problems with data and building intuitive digital exper
 
 ## 🌐 Connect with Me
 
-- LinkedIn: prachi-prajapati-3b956724b
-- GitHub: https://github.com/coded-by-prachi
-- LeetCode: https://leetcode.com/u/Prachi2714/
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/prachi-prajapati-3b956724b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/coded-by-prachi" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Prachi2714/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:prizprajapati2714@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🛠️ Languages & Tools
 
-### 📊 Data Analytics
-- Excel
-- Power BI
-- SQL
-- MySQL
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,cpp,js,html,css,react,git,github,vscode,bootstrap,tailwind"/>
+</p>
 
-### 💻 Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Redux Toolkit
-- Tailwind CSS
-- Bootstrap
-
-### ⚙️ Tools
-- Git
-- GitHub
-- VS Code
-
----
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel,pandas,numpy,matplotlib"/>
+</p>
 
 ## 📌 Featured Projects
 
@@ -82,26 +80,52 @@ I enjoy solving business problems with data and building intuitive digital exper
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-(Add GitHub Stats Card)
+<p align="center">
 
-## 🔥 GitHub Streak
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=coded-by-prachi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-(Add GitHub Streak Card)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=coded-by-prachi&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## 💻 Most Used Languages
 
-(Add Top Languages Card)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coded-by-prachi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## 🏆 GitHub Trophies
 
-(Add Trophy Card)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=coded-by-prachi&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</p>
+
+## 💻 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Prachi2714?theme=dark&font=Baloo&ext=heatmap"/>
+
+</p>
 
 ## 📊 Contribution Graph
 
-(Add Activity Graph)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coded-by-prachi&theme=tokyo-night"/>
+
+</p>
 
 ## 👀 Profile Views
 
-(Add Visitor Counter)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=coded-by-prachi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
