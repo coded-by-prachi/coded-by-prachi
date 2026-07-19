@@ -55,19 +55,15 @@ I enjoy solving business problems with data and building intuitive digital exper
 ## 🛠️ Languages & Tools
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,cpp,js,html,css,react,git,github,vscode,bootstrap,tailwind" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,cpp,js,html,css,react,git,github,vscode,bootstrap,tailwind" />
-
-<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="48" height="48"/>
-
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="48" height="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
-
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="60"/>
-
+<p align="left">
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" title="Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="48" height="48"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" title="Matplotlib" height="48"/>
 </p>
 
 ## 📌 Featured Projects
