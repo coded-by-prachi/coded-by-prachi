@@ -32,10 +32,9 @@ I enjoy solving business problems with data and building intuitive digital exper
 
 ## 🌐 Connect with Me
 
-- LinkedIn
-- GitHub
-- Instagram
-- LeetCode (optional)
+- LinkedIn: prachi-prajapati-3b956724b
+- GitHub: https://github.com/coded-by-prachi
+- LeetCode: https://leetcode.com/u/Prachi2714/
 
 ---
 
