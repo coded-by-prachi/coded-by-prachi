@@ -32,8 +32,6 @@ I enjoy solving business problems with data and building intuitive digital exper
 
 ## 🌐 Connect with Me
 
-## 🌐 Connect with Me
-
 <p align="left">
 <a href="https://www.linkedin.com/in/prachi-prajapati-3b956724b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -57,11 +55,19 @@ I enjoy solving business problems with data and building intuitive digital exper
 ## 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,cpp,js,html,css,react,git,github,vscode,bootstrap,tailwind"/>
-</p>
 
-<p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel,pandas,numpy,matplotlib"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,cpp,js,html,css,react,git,github,vscode,bootstrap,tailwind" />
+
+<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="48" height="48"/>
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="48" height="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="60"/>
+
 </p>
 
 ## 📌 Featured Projects
@@ -84,25 +90,9 @@ I enjoy solving business problems with data and building intuitive digital exper
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=coded-by-prachi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=coded-by-prachi&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=coded-by-prachi&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coded-by-prachi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=coded-by-prachi&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
 
 </p>
 
