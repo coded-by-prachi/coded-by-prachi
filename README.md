@@ -1,6 +1,6 @@
 # Hi 👋, I'm Prachi Prajapati
 
-### Aspiring Data Analyst | Frontend Developer | Power BI | SQL | Python | C++
+### Aspiring Data Analytics | Frontend Developer | Power BI | SQL | Python | C++
 
 ---
 
