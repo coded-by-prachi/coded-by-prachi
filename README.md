@@ -1,14 +1,14 @@
 # Hi 👋, I'm Prachi Prajapati
 
-### Aspiring Data Analytics | Frontend Developer | Power BI | SQL | Python | C++
+### Aspiring Data Analytics | Power BI | SQL | Python (Basics) | Microsoft Excel
 
 ---
 
 🔭 I’m currently working on **Data Analytics projects using Excel, SQL, Python, and Power BI**.
 
-💻 My GitHub also showcases **frontend development projects**, reflecting my experience in building responsive and user-friendly web applications.
+💻 My GitHub also showcases **Data Analytics Projects**, reflecting my experience in data cleaning, analysis, visualization, and dashboard development using Python, SQL, Excel, and Power BI.
 
-🌱 I’m currently learning **Advanced SQL, Power BI (DAX), Python for Data Analysis, Statistics, and Data Structures & Algorithms (C++)**.
+🌱 I’m currently learning **Advanced SQL, Power BI (DAX), Python for Data Analysis, Statistics**.
 
 👯 I’m looking to collaborate on **Data Analytics, Business Intelligence, and Web Development projects**.
 
@@ -20,7 +20,7 @@
 **https://github.com/coded-by-prachi**
 
 💬 Ask me about:
-**Excel • Power BI • SQL • Python • Pandas • Matplotlib • C++ • Frontend Development**
+**Excel • Power BI • SQL • Python • Pandas • Matplotlib  • NumPy**
 
 📫 Reach me at:
 **prizprajapati2714@gmail.com**
@@ -80,9 +80,6 @@ I enjoy solving business problems with data and building intuitive digital exper
 
 ⭐ Python Data Analysis Projects
 
-⭐ Hungry Hub
-
-⭐ Weather Widget
 
 ---
 
